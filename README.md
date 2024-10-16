@@ -1,5 +1,7 @@
 # 💫 About Me:
-working as a data scientist  . <br>Experienced in both ML & data engineering <br>looking to collaborate on Data science , ML & genAI <br>You can reach me on vinyasshetty18@gmail.com<br>
+- Working as a Data Scientist 
+- Experienced in both ML & Data Engineering
+- You can reach me on vinyasshetty18@gmail.com<br>
 
 
 ## 🌐 Socials:
