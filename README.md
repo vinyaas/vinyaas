@@ -1,6 +1,5 @@
 # 💫 About Me:
-- Working as a Data Scientist 
-- Experienced in both ML & Data Engineering
+- Experienced in Data science , Machine Learning & Data Engineering
 - You can reach me on vinyasshetty18@gmail.com<br>
 
 
