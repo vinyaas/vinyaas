@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello There I'm Vinyas shetty 💫
 - Experienced in Data science , Machine Learning & Data Engineering
 - You can reach me on vinyasshetty18@gmail.com<br>
 
